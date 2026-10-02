@@ -39,4 +39,4 @@ php artisan serve
 
 # Akun Administrator Default
 Email: admin@sertifikasi.com
-Password: password123
+Password: 
